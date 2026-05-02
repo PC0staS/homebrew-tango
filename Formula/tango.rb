@@ -2,7 +2,7 @@ class Tango < Formula
   desc "Declarative API testing CLI"
   homepage "https://github.com/pc0stas/tango"
   url "https://github.com/pc0stas/tango/archive/v1.0.0.tar.gz"
-  sha256 "bbc5a0c0f9b0a971e9fa5a4db9392e3b66b619dc182747ff7312733fa073b2aa"
+  sha256 "d789164ecc287a4bf6bc2f1c74a16c801ec39317a9744c52a64ef8063da0b655"
   license "MIT"
   version "1.0.0"
 
