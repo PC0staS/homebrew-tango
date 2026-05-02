@@ -1,10 +1,10 @@
 class Tango < Formula
   desc "Declarative API testing CLI"
   homepage "https://github.com/pc0stas/tango"
-  url "https://github.com/pc0stas/tango/archive/v1.0.1.tar.gz"
-  sha256 "aba467c1f8ca034ce114354ea2c733409e2ed866ceaca20fd01597f9acb1c787"
+  url "https://github.com/pc0stas/tango/archive/v1.0.2.tar.gz"
+  sha256 "d90b23514cea6ed750b08b579ec853616c91caf35e268b79fa06779f917fdfa1"
   license "MIT"
-  version "1.0.1"
+  version "1.0.2"
 
   depends_on "go" => :build
 
